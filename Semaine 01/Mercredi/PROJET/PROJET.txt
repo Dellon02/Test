@@ -1,0 +1,9 @@
+use case avec MIRO
+reférencie les rôles de tous les utilisateurs
+
+
+Parcours utilisateur
+
+daily scrum
+ce que j ai fais hier, aujourdhui et point bloquant
+
